@@ -370,6 +370,7 @@ nav .navlinks li a{
     footer{
       position: relative;
       bottom: 0px;
+      color: #393281;
     }
     .main-content{
       flex-wrap: wrap;
