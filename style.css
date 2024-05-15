@@ -308,10 +308,12 @@ nav .navlinks li a{
     font-size: 1.0625rem;
     font-weight: 500;
     padding-left: 10px;
+    color: #000001;
+
   }
   .center .content .phone{
     margin: 15px 0;
-    color: #393281;
+    color: #000001;
 
   }
   .right form .text{
@@ -325,7 +327,7 @@ nav .navlinks li a{
   .right form input, .right form textarea{
     width: 100%;
     font-size: 1.0625rem;
-    background: #151515;
+    background: #ffc3c3;
     padding-left: 10px;
     border: 1px solid #222222;
   }
@@ -381,6 +383,6 @@ nav .navlinks li a{
     }
     .main-content .box{
       margin: 5px 0;
-      color: #393281;
+      color: #000001;
     }
   }
