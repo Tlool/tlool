@@ -308,7 +308,7 @@ nav .navlinks li a{
     font-size: 1.0625rem;
     font-weight: 500;
     padding-left: 10px;
-    color: #000001;
+    color: #fff;
 
   }
   .center .content .phone{
@@ -329,7 +329,7 @@ nav .navlinks li a{
     font-size: 1.0625rem;
     background: #ffc3c3;
     padding-left: 10px;
-    border: 1px solid #222222;
+    border: 1px solid #fff;
   }
   .right form input:focus,
   .right form textarea:focus{
