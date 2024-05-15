@@ -280,6 +280,7 @@ nav .navlinks li a{
     height: 40px;
     width: 40px;
     background: #1a1a1a;
+    color: #393281;
     line-height: 40px;
     text-align: center;
     font-size: 18px;
@@ -372,10 +373,11 @@ nav .navlinks li a{
     }
     .main-content{
       flex-wrap: wrap;
-      color: #d4cfcf;
+      color: #fff;
       flex-direction: column;
     }
     .main-content .box{
       margin: 5px 0;
+      color: #393281;
     }
   }
