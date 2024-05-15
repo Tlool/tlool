@@ -313,7 +313,7 @@ nav .navlinks li a{
   }
   .center .content .phone{
     margin: 15px 0;
-    color: #000001;
+    color: #fff;
 
   }
   .right form .text{
@@ -383,6 +383,6 @@ nav .navlinks li a{
     }
     .main-content .box{
       margin: 5px 0;
-      color: #000001;
+      color: #fff;
     }
   }
