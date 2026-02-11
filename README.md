@@ -1,5 +1,8 @@
 # 💫 About Me:
-talal 19
+
+Talal, 19y old.
+
+- Out of service
 
 
 ## 🌐 Socials:
