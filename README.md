@@ -1,6 +1,6 @@
 #
 
-Talal, 19y old.
+Talal, 19y old, I do Programming and development as a Hobby.
 
 #
 
