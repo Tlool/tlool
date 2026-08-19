@@ -1,8 +1,8 @@
-# Hey, Its Talal
+# Hey, It's Talal
 
 I do programming & software development as a hobby.
 
-### What I Do
+### What Do I Do?
 
 - Systems & API Reverse Engineering
 - API & Backend Engineering
@@ -35,18 +35,43 @@ I do programming & software development as a hobby.
 - Multi-Server Minecraft Networks & Cross-Server Systems
 - Game & Community Server Infrastructure
 
-### Platforms & APIs
+### Platforms & Ecosystems
 
+**Communication & Social**
 - Discord
-- Epic Games
-- Riot Games / VALORANT
 - WhatsApp
-- Meta Platform APIs
 - Telegram
+- Instagram
+- TikTok
+- Meta Platforms
+
+**Gaming & Game Platforms**
 - Minecraft
-- Game & Community APIs
+- Riot Games / VALORANT
+- Epic Games
+- FiveM
+- Steam
+- Game & Community Platforms
+
+**Media & Streaming**
+- Stremio
+- Torrentio
+- Real-Debrid
+- OpenSubtitles
+- YouTube / YouTube APIs
+
+**APIs & Integrations**
+- Discord APIs
+- Epic Games APIs
+- Riot Games APIs
+- Meta APIs
+- Telegram APIs
+- REST APIs
+- WebSocket APIs
 - OAuth / Authentication Systems
-- REST & WebSocket APIs
+- Third-Party APIs
+- Game APIs
+- Community APIs
 
 ### Languages
 
@@ -54,15 +79,45 @@ TypeScript • JavaScript • Python • Lua • C# • Java
 
 ### Frameworks & Runtime
 
-Node.js • Bun • React • React Native • .NET • EJS • TailwindCSS
+Node.js • Bun • React • .NET • EJS • TailwindCSS
 
 ### Mobile
 
 iOS • React Native • Swift / SwiftUI
 
+### AI & Intelligent Systems
+
+- Local & Self-Hosted AI
+- AI-Powered Applications
+- LLM & Generative AI Applications
+- AI API Integration
+- AI Automation & Tooling
+- Intelligent Assistants & Agents
+- AI-Driven Developer Tools
+- Model Integration & Experimentation
+
+### AI in My Workflow
+
+I use AI as a development partner to prototype faster, explore ideas, automate repetitive tasks, debug complex problems, and turn ideas into working software more efficiently.
+
+- OpenAI Codex
+- Claude Code
+- AI APIs & LLMs
+
 ### Cloud & Infrastructure
 
-AWS • Google Cloud • Cloudflare
+AWS • Google Cloud • Cloudflare • Self-Hosted / Homelab
+
+### Self-Hosted Infrastructure
+
+- Home Server Infrastructure
+- Self-Hosted Applications & Services
+- Dockerized Applications & Services
+- Private APIs & Backend Systems
+- Databases & Persistent Storage
+- Monitoring & Logging
+- Network & Reverse Proxy Services
+- Development & Automation Infrastructure
 
 ### Databases
 
@@ -81,6 +136,7 @@ Docker • Git • GitHub • npm • Yarn
 - Automation
 - Systems Engineering
 - Game Server Architecture
+- Self-Hosted Infrastructure
 - New APIs, Protocols & Technologies
 
 ### My Approach
@@ -89,4 +145,4 @@ Docker • Git • GitHub • npm • Yarn
 > I care about quality, precision, and the small details — not just making something work.
 > I'm passionate about what I do, and that passion pushes me to keep improving everything I build.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/769189691421229088) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its20iii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@مُميّز) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23every@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/769189691421229088) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its20iii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@مُميّز) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23every@gmail.com)
