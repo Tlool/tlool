@@ -1,4 +1,4 @@
-# Hey, It's Talal 👋
+# Hey, Its Talal
 
 I do programming & software development as a hobby.
 
