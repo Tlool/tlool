@@ -1,6 +1,6 @@
 # Hey, It's Talal
 
-I do programming & software development as a hobby.
+I build software, systems, and tools driven by curiosity and passion.
 
 ### What Do I Do?
 
