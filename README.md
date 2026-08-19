@@ -123,13 +123,15 @@ AWS • Google Cloud • Cloudflare • Self-Hosted / Homelab
 
 MySQL • SQLite • PostgreSQL • Microsoft SQL Server
 
-**Development**
+### Development
+
 - VS Code
 - Xcode
 - Postman
 - npm • Yarn • pnpm
 
-**DevOps & Infrastructure**
+### DevOps & Infrastructure
+
 - Docker
 - Git
 - GitHub
