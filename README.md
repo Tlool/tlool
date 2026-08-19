@@ -123,9 +123,20 @@ AWS • Google Cloud • Cloudflare • Self-Hosted / Homelab
 
 MySQL • SQLite • PostgreSQL • Microsoft SQL Server
 
-### Tools & DevOps
+**Development**
+- VS Code
+- Xcode
+- Postman
+- npm • Yarn • pnpm
 
-Docker • Git • GitHub • npm • Yarn
+**DevOps & Infrastructure**
+- Docker
+- Git
+- GitHub
+- GitHub Actions
+- Linux
+- SSH
+- Homebrew
 
 ### Currently Exploring
 
